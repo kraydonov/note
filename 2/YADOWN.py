@@ -1,0 +1,2 @@
+echo "yadown"
+print ("echo")
